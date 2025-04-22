@@ -268,27 +268,27 @@ This repository contains a curated list of AI tools that can significantly enhan
 ## Snippet Generators 📑
 | Tool Name                | Description | Link |
 |--------------------------|-------------|------|
-| **CodePal**               | A web tool for quickly generating or refactoring code. 🧰 | [CodePal](https://www.codepal.dev/) |
+| **CodePal**               | A web tool for quickly generating or refactoring code. 🧰 | [CodePal](https://codepal.ai/) |
 | **AI Code Convert**       | A web tool for translating code between programming languages. 🔄 | [AI Code Convert](https://www.aicodeconvert.com/) |
-| **AI Code Playground**    | A web tool for refactoring and improving code. 💻 | [AI Code Playground](https://www.aicodeplayground.com/) |
-| **AutoRegex**             | AutoRegex uses OpenAI's GPT-3 to produce regular expressions from plain English. 🔍 | [AutoRegex](https://www.autoregex.ai/) |
+| **AI Code Playground**    | A web tool for refactoring and improving code. 💻 | [AI Code Playground](https://aicodeplayground.com) |
+| **AutoRegex**             | AutoRegex uses OpenAI's GPT-3 to produce regular expressions from plain English. 🔍 | [AutoRegex](https://www.autoregex.xyz/) |
 
 ## 📝 Documentation & Comments
 | Tool Name                | Description | Link |
 |--------------------------|-------------|------|
 | **Mintlify** | Automatically generates documentation from code | [Mintlify](https://www.mintlify.com/) |
-| **Trelent**               | A VS Code extension to generate docstrings. Uses proprietary models. ✍️ | [Trelent](https://www.trelent.com/) |
-| **DiagramGPT**            | DiagramGPT is a free AI-based web app that converts a schema, infrastructure definition, code snippet, or plain language description into diagrams. The tool can generate flow charts, entity relationship diagrams, cloud architecture diagrams, and sequence diagrams. 🖼️ | [DiagramGPT](https://www.diagramgpt.com/) |
+| **Trelent**               | A VS Code extension to generate docstrings. Uses proprietary models. ✍️ | [Trelent](https://trelent.net) |
+| **DiagramGPT**            | DiagramGPT is a free AI-based web app that converts a schema, infrastructure definition, code snippet, or plain language description into diagrams. The tool can generate flow charts, entity relationship diagrams, cloud architecture diagrams, and sequence diagrams. 🖼️ | [DiagramGPT](https://www.eraser.io/diagramgpt) |
 | **DocuWriter.ai**         | AI-powered web app to generate automated Code & API documentation from your source code files. 📝 | [DocuWriter.ai](https://www.docuwriter.ai/) |
-| **README-AI**             | Automated README.md file generator, powered by large language model APIs. 📄 | [README-AI](https://www.readme.ai/) |
+| **README-AI**             | Automated README.md file generator, powered by large language model APIs. 📄 | [README-AI](https://github.com/eli64s/readme-ai/) |
 | **Supacodes**             | An AI tool that automates writing & updating code documentation in Github. 📚 | [Supacodes](https://www.supacodes.com/) |
-| **CodexAtlas**            | Automated code and API documentation using the latest AI models. 📖 | [CodexAtlas](https://www.codexatlas.com/) |
+| **CodexAtlas**            | Automated code and API documentation using the latest AI models. 📖 | [CodexAtlas](https://codedocumentation.app/) |
 
 ## OpenAI Plugins 🔌
 | Tool Name                | Description | Link |
 |--------------------------|-------------|------|
-| **ChatWithGit**           | Enables ChatGPT to search GitHub and return links to relevant repositories. 🔍 | [ChatWithGit](https://www.chatwithgit.com/) |
-| **Code ChatGPT Plugin**   | Open source example of a ChatGPT plugin that pulls context from a directory of files. 📂 | [Code ChatGPT Plugin](https://github.com/chatgpt-plugin/code-chatgpt) |
+| **ChatWithGit**           | Enables ChatGPT to search GitHub and return links to relevant repositories. 🔍 | [ChatWithGit](https://gitsearch.sdan.io/) |
+| **Code ChatGPT Plugin**   | Open source example of a ChatGPT plugin that pulls context from a directory of files. 📂 | [Code ChatGPT Plugin](https://github.com/kesor/chatgpt-code-plugin) |
 
 
 ---
@@ -337,7 +337,7 @@ This repository contains a curated list of AI tools that can significantly enhan
 
 | Tool | Description | Link |
 |------|-------------|------|
-| **ExplainDev** | Explains code in plain English using AI | [ExplainDev](https://www.explaindev.com/) |
+| **ExplainDev** | Explains code in plain English using AI | [ExplainDev](https://www.futuretools.io/tools/explaindev/) |
 | **Cursor** | AI-native code editor for building faster | [Cursor](https://www.cursor.sh/) |
 
 ---
