@@ -4,8 +4,8 @@ This repository contains a curated list of AI tools that can significantly enhan
 
 ## 📦 Categories
 
-1. [Code Generation](#code-generation)
-2. [Code Review & Refactoring](#code-review--refactoring)
+1. [Code Generation](#-code-generation)
+2. [Code Review & Refactoring](#-code-review--refactoring)
 3. [Testing](#testing)
 4. [Documentation & Comments](#documentation--comments)
 5. [DevOps & Automation](#devops--automation)
@@ -45,16 +45,7 @@ This repository contains a curated list of AI tools that can significantly enhan
 | **Mabl** | Intelligent test automation for web applications | [Mabl](https://www.mabl.com/) |
 | **Diffblue Cover** | Java unit test generator powered by AI | [Diffblue](https://www.diffblue.com/) |
 
----
-
-## 📝 Documentation & Comments
-
-| Tool | Description | Link |
-|------|-------------|------|
-| **Mintlify** | Automatically generates documentation from code | [Mintlify](https://www.mintlify.com/) |
-| **DocuWriter.ai** | Generate project documentation with AI | [DocuWriter.ai](https://www.docuwriter.ai/) |
-
----
+---  
 
 ## ⚙️ DevOps & Automation
 
@@ -82,16 +73,7 @@ This repository contains a curated list of AI tools that can significantly enhan
 | **Langchain** | Framework for building LLM-powered applications | [Langchain](https://www.langchain.com/) |
 | **Botpress** | Open-source conversational AI platform | [Botpress](https://botpress.com/) |
 | **Rasa** | Framework to build contextual AI assistants | [Rasa](https://rasa.com/) |
-
----
-
-## 🎨 Visual Tools & Design
-
-| Tool | Description | Link |
-|------|-------------|------|
-| **Uizard** | Design to code with AI for mobile and web apps | [Uizard](https://uizard.io/) |
-| **Galileo AI** | UI generation from simple text prompts | [Galileo AI](https://www.usegalileo.ai/) |
-
+ 
 ---
 ## 🖥️ AI-Powered IDEs
 
@@ -264,7 +246,7 @@ This repository contains a curated list of AI tools that can significantly enhan
 
 ---
 
-## UI Generators 🎨
+## 🎨 Visual Tools & Design
 | Tool Name                | Description | Link |
 |--------------------------|-------------|------|
 | **v0**                    | Create and iterate new UI components in your browser. 💻 | [v0](https://v0.dev/) |
@@ -291,9 +273,10 @@ This repository contains a curated list of AI tools that can significantly enhan
 | **AI Code Playground**    | A web tool for refactoring and improving code. 💻 | [AI Code Playground](https://www.aicodeplayground.com/) |
 | **AutoRegex**             | AutoRegex uses OpenAI's GPT-3 to produce regular expressions from plain English. 🔍 | [AutoRegex](https://www.autoregex.ai/) |
 
-## Documentation 📖
+## 📝 Documentation & Comments
 | Tool Name                | Description | Link |
 |--------------------------|-------------|------|
+| **Mintlify** | Automatically generates documentation from code | [Mintlify](https://www.mintlify.com/) |
 | **Trelent**               | A VS Code extension to generate docstrings. Uses proprietary models. ✍️ | [Trelent](https://www.trelent.com/) |
 | **DiagramGPT**            | DiagramGPT is a free AI-based web app that converts a schema, infrastructure definition, code snippet, or plain language description into diagrams. The tool can generate flow charts, entity relationship diagrams, cloud architecture diagrams, and sequence diagrams. 🖼️ | [DiagramGPT](https://www.diagramgpt.com/) |
 | **DocuWriter.ai**         | AI-powered web app to generate automated Code & API documentation from your source code files. 📝 | [DocuWriter.ai](https://www.docuwriter.ai/) |
@@ -323,7 +306,6 @@ This repository contains a curated list of AI tools that can significantly enhan
 | **CodeGeeX** | Open source assistant based on the CodeGeeX LLM with chat, completion, and refactoring. Extensions for 9 editors including VS Code and PyCharm. | [CodeGeeX](https://github.com/THU-KEG/CodeGeeX) |
 | **Quack AI** | VS Code extension for adhering to project coding guidelines. | [Quack AI](https://quack.ai) |
 | **Tabby** | Open source, self-hosted code completion assistant. Extensions for VS Code and Vim. | [Tabby](https://www.tabby.com) |
-| **Tabnine (Source)** | Open source, self-hosted code completion assistant. Extensions for 15 editors including VS Code, IntelliJ, Neovim, Eclipse, and PyCharm. | [Tabnine](https://www.tabnine.com) |
 | **CodeMate** | VS Code extension for debugging and optimizing code. | [CodeMate](https://www.codemate.ai) |
 | **AskCodi** | AI coding assistant with extensions for VS Code, JetBrains, and Sublime Text. | [AskCodi](https://www.askcodi.com) |
 | **Rubberduck** | Open source, chat assistant for the Visual Studio Code sidebar. | [Rubberduck](https://github.com/rubberduck-ai/rubberduck) |
@@ -340,30 +322,7 @@ This repository contains a curated list of AI tools that can significantly enhan
 | **EasyCode** | VS Code extension with GPT-4 chat. | [EasyCode](https://www.easycode.com) |
 
 ---
-
-## Search 🔍
-| Tool Name                | Description | Link |
-|--------------------------|-------------|------|
-| **Bloop**                 | Natural language search for repositories. 📝 | [Bloop](https://www.bloop.ai/) |
-| **Buildt**                | Natural language search for repositories. Waitlist. 📝 | [Buildt](https://www.buildt.ai/) |
-| **SeaGOAT**               | A local search tool leveraging vector embeddings to search your codebase semantically. 🌊 | [SeaGOAT](https://www.seagoat.ai/) |
-
-## Testing 🧪
-| Tool Name                | Description | Link |
-|--------------------------|-------------|------|
-| **OctoMind**              | Auto-maintenance and generated browser-based end-to-end tests integrated into Github Actions, Azure DevOps, and more. 🔄 | [OctoMind](https://www.octomind.com/) |
-| **Traceloop**             | Uses OpenTelemetry tracing data with generative AI to improve system reliability. 🔍 | [Traceloop](https://www.traceloop.com/) |
-| **Carbonate**             | End-to-end testing using natural language. Integrates into your existing test suite (currently Jest, PHPUnit, and Python's unittest). 🔧 | [Carbonate](https://www.carbonate.ai/) |
-| **Meticulous.ai**         | Automatically generated, automatically maintained end-to-end tests: as your app evolves, so does your test suite. 📊 | [Meticulous.ai](https://www.meticulous.ai/) |
-| **DiffBlue**              | Automatically generated unit tests for Java. 🔹 | [DiffBlue](https://www.diffblue.com/) |
-| **Qodo**                  | Non-trivial test generation with support for major programming languages. Extensions for VS Code and JetBrains. (formerly Codium) 🧪 | [Qodo](https://www.qodo.ai/) |
-| **DeepUnit**              | Thoughtful test cases and generation of complete unit test files. Available as an interactive VS Code extension, npm package, CLI, or CI/CD pipeline. 🔧 | [DeepUnit](https://www.deepunit.com/) |
-| **MutahunterAI**          | Accelerate developer productivity and code security by finding vulnerabilities in code and generating tests for them. Open Source and available as a CLI or CI/CD pipeline. 🔒 | [MutahunterAI](https://www.mutahunter.ai/) |
-| **KushoAI**               | AI agent for API testing which transforms your Postman collections, OpenAPI specs, curl commands, etc. into exhaustive test suites that plug into your CI/CD pipeline. 🛠️ | [KushoAI](https://www.kusho.ai/) |
-| **Test Gru**              | Provides enterprise-level unit test automation services. 🧪 | [Test Gru](https://www.testgru.com/) |
-
-
----
+ 
 
 ## 📊 Data & Analytics
 
