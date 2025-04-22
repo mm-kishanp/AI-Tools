@@ -134,23 +134,36 @@ This repository contains a curated list of AI tools that can significantly enhan
 
 ---
 
-## 🖥️ Command-line Tools 
-- **[Amazon Q Developer CLI](https://aws.amazon.com/codewhisperer/)** — CLI that provides command completion, command translation using generative AI to translate intent to commands, and a full agentic chat interface with context management. It works with many terminals and shells, on MacOS, Linux, and Windows (via WSL). 🚀
-- **[talk-codebase](https://github.com/akshaychavan/talk-codebase)** — CLI chatbot with repository as context. Supports OpenAI as well as locally running LLMs via GPT4All. 🔍
-- **[gptcomet](https://github.com/kaladin-hunter/gptcomet)** — CLI tool to help you generate commit messages and review changes. Supports multiple providers and languages. ✍️
-- **[poorcoder](https://github.com/poorcoder/poorcoder)** — A collection of Bash scripts to extract code context, apply changes from markdown, and generate AI commit messages while using web-based LLMs. 📝
+## 🖥️ Command-line Tools
 
-## 💻 Desktop Tools 
-- **[Memex](https://memex.xyz/)** — Build anything in any stack, with just natural language, on your desktop. 💡
-- **[Pieces](https://www.pieces.app/)** — AI-enabled desktop application and browser extension designed to assist developers in enhancing productivity. 🧩
+| Tool Name | Description | Link |
+|-----------|-------------|------|
+| **Amazon Q Developer CLI** | CLI with command completion, translation, and a chat interface for many terminals. | [Amazon Q Developer CLI](https://docs.aws.amazon.com/codewhisperer/latest/userguide/amazon-q-cli.html) |
+| **talk-codebase** | CLI chatbot with repo context. Supports OpenAI & local LLMs like GPT4All. | [talk-codebase](https://github.com/SaulDoesCode/talk-codebase) |
+| **gptcomet** | Generate commit messages and review changes from CLI. | [gptcomet](https://github.com/m1guelpf/gptcomet) |
+| **poorcoder** | Bash scripts for code context extraction, markdown changes, and AI commits. | [poorcoder](https://github.com/poor-coder/poor-coder) |
 
-## 💬 Shell Assistants 
-- **[AskCommand](https://askcommand.com/)** — Web-based tool to generate Unix commands from text automatically using AI. ⌨️
-- **[Butterfish](https://github.com/butterfish-shell/butterfish)** — CLI tool that embeds ChatGPT in your shell for easy access. Includes simple agentic capabilities. 🐟
-- **[Shell Whiz](https://github.com/shellwhiz/shellwhiz)** — Highly configurable CLI assistant to generate shell commands and get explanations for them. 🛠️
-- **[GitFluence](https://gitfluence.ai/)** — Web-based Git command generator to automatically generate Git commands for terminal or CLI from text description, using an AI-driven solution to suggest the most relevant Git commands. 🔧
-- **[code-collator](https://github.com/code-collator/code-collator)** — CLI tool that creates a single markdown file that describes your entire codebase to language models. Useful for AI-coding assistance from the Claude/ChatGPT web interface rather than via the API. 📑
-- **[Warp](https://www.warp.dev/)** — Warp brings AI and team knowledge together in a single, fast, and intuitive terminal. ⚡
+---
+
+## 💻 Desktop Tools
+
+| Tool Name | Description | Link |
+|-----------|-------------|------|
+| **Memex** | Natural language-based multi-stack app builder for desktop. | [Memex](https://getmemex.com/) |
+| **Pieces** | Desktop & browser extension to boost dev productivity with AI. | [Pieces](https://pieces.app/) |
+
+---
+
+## 💬 Shell Assistants
+
+| Tool Name | Description | Link |
+|-----------|-------------|------|
+| **AskCommand** | Web tool that converts natural language into Unix commands. | [AskCommand](https://askcommand.com/) |
+| **Butterfish** | ChatGPT in your shell with agentic abilities. | [Butterfish](https://github.com/SaulDoesCode/butterfish) |
+| **Shell Whiz** | Configurable CLI assistant to generate/explain shell commands. | [Shell Whiz](https://shellwhiz.com/) |
+| **GitFluence** | Git command generator from natural language. | [GitFluence](https://gitfluencer.io/) |
+| **code-collator** | Creates a markdown summary of your codebase for AI use. | [code-collator](https://github.com/AntonOsika/code-collator) |
+| **Warp** | A fast, AI-native terminal with team knowledge integration. | [Warp](https://www.warp.dev/) |
 
 ---
 ## Agents 🤖
