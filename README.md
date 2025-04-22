@@ -6,14 +6,28 @@ This repository contains a curated list of AI tools that can significantly enhan
 
 1. [Code Generation](#-code-generation)
 2. [Code Review & Refactoring](#-code-review--refactoring)
-3. [Testing](#testing)
-4. [Documentation & Comments](#documentation--comments)
-5. [DevOps & Automation](#devops--automation)
-6. [APIs & SDKs](#apis--sdks)
-7. [Chatbots & Assistants](#chatbots--assistants)
-8. [Visual Tools & Design](#visual-tools--design)
-9. [Data & Analytics](#data--analytics)
-10. [Other Useful Tools](#other-useful-tools)
+3. [DevOps & Automation](#%EF%B8%8F-devops--automation)
+4. [APIs & SDKs](#-apis--sdks)
+5. [Chatbots & Assistants](#-chatbots--assistants)
+6. [AI-Powered IDEs](#%EF%B8%8F-ai-powered-ides)
+7. [Web-based Assistants](#-web-based-assistants)
+8. [Command-line Tools](#%EF%B8%8F-command-line-tools)
+9. [Desktop Tools](#-desktop-tools)
+10. [Shell Assistants](#-shell-assistants)
+11. [Agents](#-agents)
+12. [PR Agents](#%EF%B8%8F-pr-agents)
+13. [App Generators](#-app-generators)
+14. [Search](#-Search )
+15. [Testing](#-Testing-1)
+16. [Visual Tools & Design](#-visual-tools--design)
+17. [Snippet Generators](#-snippet-generators)
+18. [Documentation & Comments](#-documentation--comments)
+19. [OpenAI Plugins](#-openai-plugins)
+20. [IDE Extensions](#-ide-extensions)
+21. [Data & Analytics](#-data--analytics)
+22. [Other Useful Tools](#-data--analytics)
+
+
 
 
 
