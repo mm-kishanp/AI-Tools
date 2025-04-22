@@ -75,6 +75,7 @@ This repository contains a curated list of AI tools that can significantly enhan
 | **Rasa** | Framework to build contextual AI assistants | [Rasa](https://rasa.com/) |
  
 ---
+
 ## 🖥️ AI-Powered IDEs
 
 | Tool | Description | Link |
@@ -148,7 +149,9 @@ This repository contains a curated list of AI tools that can significantly enhan
 | **Warp** | A fast, AI-native terminal with team knowledge integration. | [Warp](https://www.warp.dev/) |
 
 ---
-## Agents 🤖
+
+## 🤖 Agents 
+
 | Tool Name                    | Description | Link |
 |------------------------------|-------------|------|
 | **Smol Developer**            | CLI agent that generates a repository from a prompt. Uses OpenAI and Anthropic. 🏗️ | [Smol Developer](https://github.com/smol-ai/developer) |
@@ -171,7 +174,8 @@ This repository contains a curated list of AI tools that can significantly enhan
 
 ---
 
-## PR Agents 🛠️
+## 🛠️ PR Agents
+
 | Tool Name                    | Description | Link |
 |------------------------------|-------------|------|
 | **Greptile**                  | AI bot that reviews PRs in GitHub/Gitlab with full context of the codebase. 📄 | [Greptile](https://github.com/greptile/greptile) |
@@ -196,10 +200,10 @@ This repository contains a curated list of AI tools that can significantly enhan
 | **Callstack.ai Code Reviewer** | AI-powered PR reviewer for GitHub, designed to identify bugs, security issues, and performance bottlenecks. 🕵️‍♂️ | [Callstack.ai Code Reviewer](https://github.com/callstack-ai/callstack) |
 | **Matter AI**                 | Open-source AI code reviewer to help engineering teams release code with confidence. 🚀 | [Matter AI](https://github.com/matterai/matterai) |
 
-
 ---
 
-## App Generators 🚀
+## 🚀 App Generators 
+
 | Tool Name                    | Description | Link |
 |------------------------------|-------------|------|
 | **Pico**                      | End-to-end micro app generator with instant deployment. ⚡ | [Pico](https://github.com/pico/pico) |
@@ -221,15 +225,18 @@ This repository contains a curated list of AI tools that can significantly enhan
 
 ---
 
+## 🔍 Search 
 
-## Search 🔍
 | Tool Name                | Description | Link |
 |--------------------------|-------------|------|
 | **Bloop**                 | Natural language search for repositories. 📝 | [Bloop](https://www.bloop.ai/) |
 | **Buildt**                | Natural language search for repositories. Waitlist. 📝 | [Buildt](https://www.buildt.ai/) |
 | **SeaGOAT**               | A local search tool leveraging vector embeddings to search your codebase semantically. 🌊 | [SeaGOAT](https://www.seagoat.ai/) |
 
-## Testing 🧪
+---
+
+## 🧪 Testing 
+
 | Tool Name                | Description | Link |
 |--------------------------|-------------|------|
 | **OctoMind**              | Auto-maintenance and generated browser-based end-to-end tests integrated into Github Actions, Azure DevOps, and more. 🔄 | [OctoMind](https://www.octomind.com/) |
@@ -243,10 +250,10 @@ This repository contains a curated list of AI tools that can significantly enhan
 | **KushoAI**               | AI agent for API testing which transforms your Postman collections, OpenAPI specs, curl commands, etc. into exhaustive test suites that plug into your CI/CD pipeline. 🛠️ | [KushoAI](https://www.kusho.ai/) |
 | **Test Gru**              | Provides enterprise-level unit test automation services. 🧪 | [Test Gru](https://www.testgru.com/) |
 
-
 ---
 
 ## 🎨 Visual Tools & Design
+
 | Tool Name                | Description | Link |
 |--------------------------|-------------|------|
 | **v0**                    | Create and iterate new UI components in your browser. 💻 | [v0](https://v0.dev/) |
@@ -264,8 +271,8 @@ This repository contains a curated list of AI tools that can significantly enhan
 
 ---
 
+## 📑 Snippet Generators 
 
-## Snippet Generators 📑
 | Tool Name                | Description | Link |
 |--------------------------|-------------|------|
 | **CodePal**               | A web tool for quickly generating or refactoring code. 🧰 | [CodePal](https://codepal.ai/) |
@@ -273,7 +280,10 @@ This repository contains a curated list of AI tools that can significantly enhan
 | **AI Code Playground**    | A web tool for refactoring and improving code. 💻 | [AI Code Playground](https://aicodeplayground.com) |
 | **AutoRegex**             | AutoRegex uses OpenAI's GPT-3 to produce regular expressions from plain English. 🔍 | [AutoRegex](https://www.autoregex.xyz/) |
 
+---
+
 ## 📝 Documentation & Comments
+
 | Tool Name                | Description | Link |
 |--------------------------|-------------|------|
 | **Mintlify** | Automatically generates documentation from code | [Mintlify](https://www.mintlify.com/) |
@@ -284,7 +294,10 @@ This repository contains a curated list of AI tools that can significantly enhan
 | **Supacodes**             | An AI tool that automates writing & updating code documentation in Github. 📚 | [Supacodes](https://www.supacodes.com/) |
 | **CodexAtlas**            | Automated code and API documentation using the latest AI models. 📖 | [CodexAtlas](https://codedocumentation.app/) |
 
-## OpenAI Plugins 🔌
+---
+
+## 🔌 OpenAI Plugins 
+
 | Tool Name                | Description | Link |
 |--------------------------|-------------|------|
 | **ChatWithGit**           | Enables ChatGPT to search GitHub and return links to relevant repositories. 🔍 | [ChatWithGit](https://gitsearch.sdan.io/) |
@@ -323,7 +336,6 @@ This repository contains a curated list of AI tools that can significantly enhan
 
 ---
  
-
 ## 📊 Data & Analytics
 
 | Tool | Description | Link |
