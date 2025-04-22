@@ -80,8 +80,8 @@ This repository contains a curated list of AI tools that can significantly enhan
 | Tool | Description | Link |
 |------|-------------|------|
 | **Cursor** | IDE with chat, edit, generate, and debug features. Forked from VSCodium with a VS Code-like interface. Uses OpenAI. | [Cursor](https://www.cursor.sh/) |
-| **PearAI** | Open-source fork of VS Code with chat and inline code generation. | [PearAI GitHub](https://github.com/pearai/pearai) |
-| **Melty** | Open-source fork of VS Code with chat, previews, and AI-generated commit messages. Source only. | [Melty GitHub](https://github.com/melty-ai/melty) |
+| **PearAI** | Open-source fork of VS Code with chat and inline code generation. | [PearAI GitHub](https://trypear.ai/) |
+| **Melty** | Open-source fork of VS Code with chat, previews, and AI-generated commit messages. Source only. | [Melty GitHub](https://github.com/meltylabs/melty) |
 | **Replit** | Cloud-based IDE with chat, code completion, AI dev agent, and deployment tools. | [Replit](https://replit.com/) |
 | **Mutable** | Web IDE integrated with chatbot and GitHub workflows. | [Mutable](https://mutable.ai/) |
 | **CodeStory** | VSCodium-based IDE with chat, explanations, AI-generated commits and PRs. | [CodeStory](https://codestory.ai/) |
@@ -102,15 +102,15 @@ This repository contains a curated list of AI tools that can significantly enhan
 | **Unblocked** | Augments code with knowledge from GitHub, Slack, Jira, Confluence, and more. IDE-aware. Available on web, macOS, Slack, VS Code, and JetBrains. | [Unblocked](https://www.unblocked.ai) |
 | **Sourcegraph Cody** | Assistant with chat, refactoring, and unit test generation. Available on web, VS Code, and IntelliJ. | [Sourcegraph Cody](https://sourcegraph.com/cody) |
 | **Magnet** | Web-based chatbot with repo and issue context. | [Magnet](https://www.magnet.ai) |
-| **Adrenaline** | Answers codebase questions using AI and ASTs. | [Adrenaline](https://www.adrenaline.ai) |
+| **Adrenaline** | Answers codebase questions using AI and ASTs. | [Adrenaline](https://useadrenaline.com/) |
 | **CodeSquire** | Chrome extension for AI autocomplete in Google Colab, BigQuery, and JupyterLab. | [CodeSquire](https://codesquire.ai) |
-| **Incognito Pilot** | Open-source assistant with a built-in Python editor and interpreter. | [Incognito Pilot](https://github.com/incognito-ai/pilot) |
-| **Onboard** | Chat with AI about public and private repositories. | [Onboard](https://www.onboard.ai) |
+| **Incognito Pilot** | Open-source assistant with a built-in Python editor and interpreter. | [Incognito Pilot](https://github.com/silvanmelchior/IncognitoPilot) |
+| **Onboard** | Chat with AI about public and private repositories. | [Onboard](https://onboard.io/) |
 | **Code to Flow** | Visualize and understand code using interactive flowcharts. | [Code to Flow](https://www.codetoflow.com) |
 | **Pieces** | On-device copilot that helps capture, enrich, reuse, and share code snippets with full context. | [Pieces](https://www.pieces.app) |
-| **Wren AI** | SQL agent for asking database questions without writing SQL. Open source. | [Wren AI](https://wren.ai) |
+| **Wren AI** | SQL agent for asking database questions without writing SQL. Open source. | [Wren AI](https://getwren.ai/oss) |
 | **TEXT2SQL.AI** | Build, explain, and debug SQL queries from plain English. | [TEXT2SQL.AI](https://www.text2sql.ai) |
-| **SQLAI.ai** | Generate, optimize, and fix SQL queries with schema-aware training. | [SQLAI.ai](https://www.sqli.ai) |
+| **SQLAI.ai** | Generate, optimize, and fix SQL queries with schema-aware training. | [SQLAI.ai](https://www.sqlai.ai/) |
 | **CodeWP** | AI assistant for WordPress development — snippet and plugin generation. | [CodeWP](https://www.codewp.ai) |
 | **Gru.ai** | AI assistant for debugging, writing algorithms, testing, and everyday dev work. | [Gru.ai](https://www.gru.ai) |
 
