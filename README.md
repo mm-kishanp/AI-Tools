@@ -328,6 +328,30 @@ This repository contains a curated list of AI tools that can significantly enhan
 
 ---
 
+## Search 🔍
+| Tool Name                | Description | Link |
+|--------------------------|-------------|------|
+| **Bloop**                 | Natural language search for repositories. 📝 | [Bloop](https://www.bloop.ai/) |
+| **Buildt**                | Natural language search for repositories. Waitlist. 📝 | [Buildt](https://www.buildt.ai/) |
+| **SeaGOAT**               | A local search tool leveraging vector embeddings to search your codebase semantically. 🌊 | [SeaGOAT](https://www.seagoat.ai/) |
+
+## Testing 🧪
+| Tool Name                | Description | Link |
+|--------------------------|-------------|------|
+| **OctoMind**              | Auto-maintenance and generated browser-based end-to-end tests integrated into Github Actions, Azure DevOps, and more. 🔄 | [OctoMind](https://www.octomind.com/) |
+| **Traceloop**             | Uses OpenTelemetry tracing data with generative AI to improve system reliability. 🔍 | [Traceloop](https://www.traceloop.com/) |
+| **Carbonate**             | End-to-end testing using natural language. Integrates into your existing test suite (currently Jest, PHPUnit, and Python's unittest). 🔧 | [Carbonate](https://www.carbonate.ai/) |
+| **Meticulous.ai**         | Automatically generated, automatically maintained end-to-end tests: as your app evolves, so does your test suite. 📊 | [Meticulous.ai](https://www.meticulous.ai/) |
+| **DiffBlue**              | Automatically generated unit tests for Java. 🔹 | [DiffBlue](https://www.diffblue.com/) |
+| **Qodo**                  | Non-trivial test generation with support for major programming languages. Extensions for VS Code and JetBrains. (formerly Codium) 🧪 | [Qodo](https://www.qodo.ai/) |
+| **DeepUnit**              | Thoughtful test cases and generation of complete unit test files. Available as an interactive VS Code extension, npm package, CLI, or CI/CD pipeline. 🔧 | [DeepUnit](https://www.deepunit.com/) |
+| **MutahunterAI**          | Accelerate developer productivity and code security by finding vulnerabilities in code and generating tests for them. Open Source and available as a CLI or CI/CD pipeline. 🔒 | [MutahunterAI](https://www.mutahunter.ai/) |
+| **KushoAI**               | AI agent for API testing which transforms your Postman collections, OpenAPI specs, curl commands, etc. into exhaustive test suites that plug into your CI/CD pipeline. 🛠️ | [KushoAI](https://www.kusho.ai/) |
+| **Test Gru**              | Provides enterprise-level unit test automation services. 🧪 | [Test Gru](https://www.testgru.com/) |
+
+
+---
+
 ## 📊 Data & Analytics
 
 | Tool | Description | Link |
