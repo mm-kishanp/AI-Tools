@@ -121,9 +121,9 @@ This repository contains a curated list of AI tools that can significantly enhan
 | Tool Name | Description | Link |
 |-----------|-------------|------|
 | **Amazon Q Developer CLI** | CLI with command completion, translation, and a chat interface for many terminals. | [Amazon Q Developer CLI](https://docs.aws.amazon.com/codewhisperer/latest/userguide/amazon-q-cli.html) |
-| **talk-codebase** | CLI chatbot with repo context. Supports OpenAI & local LLMs like GPT4All. | [talk-codebase](https://github.com/SaulDoesCode/talk-codebase) |
-| **gptcomet** | Generate commit messages and review changes from CLI. | [gptcomet](https://github.com/m1guelpf/gptcomet) |
-| **poorcoder** | Bash scripts for code context extraction, markdown changes, and AI commits. | [poorcoder](https://github.com/poor-coder/poor-coder) |
+| **talk-codebase** | CLI chatbot with repo context. Supports OpenAI & local LLMs like GPT4All. | [talk-codebase](https://github.com/rsaryev/talk-codebase) |
+| **gptcomet** | Generate commit messages and review changes from CLI. | [gptcomet](https://github.com/belingud/gptcomet) |
+| **poorcoder** | Bash scripts for code context extraction, markdown changes, and AI commits. | [poorcoder](https://github.com/vgrichina/poorcoder) |
 
 ---
 
@@ -131,7 +131,7 @@ This repository contains a curated list of AI tools that can significantly enhan
 
 | Tool Name | Description | Link |
 |-----------|-------------|------|
-| **Memex** | Natural language-based multi-stack app builder for desktop. | [Memex](https://getmemex.com/) |
+| **Memex** | Natural language-based multi-stack app builder for desktop. | [Memex](https://memex.tech/) |
 | **Pieces** | Desktop & browser extension to boost dev productivity with AI. | [Pieces](https://pieces.app/) |
 
 ---
@@ -140,34 +140,34 @@ This repository contains a curated list of AI tools that can significantly enhan
 
 | Tool Name | Description | Link |
 |-----------|-------------|------|
-| **AskCommand** | Web tool that converts natural language into Unix commands. | [AskCommand](https://askcommand.com/) |
-| **Butterfish** | ChatGPT in your shell with agentic abilities. | [Butterfish](https://github.com/SaulDoesCode/butterfish) |
-| **Shell Whiz** | Configurable CLI assistant to generate/explain shell commands. | [Shell Whiz](https://shellwhiz.com/) |
-| **GitFluence** | Git command generator from natural language. | [GitFluence](https://gitfluencer.io/) |
-| **code-collator** | Creates a markdown summary of your codebase for AI use. | [code-collator](https://github.com/AntonOsika/code-collator) |
+| **AskCommand** | Web tool that converts natural language into Unix commands. | [AskCommand](https://www.askcommand.cppexpert.online//) |
+| **Butterfish** | ChatGPT in your shell with agentic abilities. | [Butterfish](https://butterfi.sh/) |
+| **Shell Whiz** | Configurable CLI assistant to generate/explain shell commands. | [Shell Whiz](https://github.com/beyimjan/shell-whiz/) |
+| **GitFluence** | Git command generator from natural language. | [GitFluence](https://www.gitfluence.com/) |
+| **code-collator** | Creates a markdown summary of your codebase for AI use. | [code-collator](https://github.com/tawandakembo/code-collator) |
 | **Warp** | A fast, AI-native terminal with team knowledge integration. | [Warp](https://www.warp.dev/) |
 
 ---
 ## Agents 🤖
 | Tool Name                    | Description | Link |
 |------------------------------|-------------|------|
-| **Smol Developer**            | CLI agent that generates a repository from a prompt. Uses OpenAI and Anthropic. 🏗️ | [Smol Developer](https://github.com/smoldeveloper/smoldeveloper) |
-| **Aider**                     | CLI assistant and agent that generates changes and commits to repositories. Uses OpenAI. 🔧 | [Aider](https://github.com/aiderai/aider) |
-| **Blinky**                    | A debugging agent for VS Code that helps to identify and fix backend errors, inspired by SWE-agent. 🐞 | [Blinky](https://github.com/blinky/blinky) |
-| **Mentat**                    | CLI assistant and agent that makes changes to repositories. 🔄 | [Mentat](https://github.com/mentat/mentat) |
-| **GPT Engineer**              | CLI agent that generates a repository from a prompt, and asks clarifying questions. 💬 | [GPT Engineer](https://github.com/gpt-engineer/gpt-engineer) |
-| **GPT Migrate**               | CLI agent that converts a full-stack application from one language or framework to another. Uses GPT-4 32k context. 🔄 | [GPT Migrate](https://github.com/gpt-migrate/gpt-migrate) |
-| **Grit**                       | GitHub-integrated agent for automating maintenance tasks and other development work. ⚙️ | [Grit](https://github.com/grit/grit) |
-| **DemoGPT**                   | Auto Gen-AI App Generator with the Power of Llama 2. 🦙 | [DemoGPT](https://github.com/demo-gpt/demo-gpt) |
-| **DevOpsGPT**                 | AI-Driven Software Development Automation Solution. 🚀 | [DevOpsGPT](https://devopsgpt.ai/) |
+| **Smol Developer**            | CLI agent that generates a repository from a prompt. Uses OpenAI and Anthropic. 🏗️ | [Smol Developer](https://github.com/smol-ai/developer) |
+| **Aider**                     | CLI assistant and agent that generates changes and commits to repositories. Uses OpenAI. 🔧 | [Aider](https://github.com/Aider-AI/aider) |
+| **Blinky**                    | A debugging agent for VS Code that helps to identify and fix backend errors, inspired by SWE-agent. 🐞 | [Blinky](https://github.com/seahyinghang8/blinky) |
+| **Mentat**                    | CLI assistant and agent that makes changes to repositories. 🔄 | [Mentat](https://mentat.ai/) |
+| **GPT Engineer**              | CLI agent that generates a repository from a prompt, and asks clarifying questions. 💬 | [GPT Engineer](https://github.com/AntonOsika/gpt-engineer) |
+| **GPT Migrate**               | CLI agent that converts a full-stack application from one language or framework to another. Uses GPT-4 32k context. 🔄 | [GPT Migrate](https://github.com/joshpxyne/gpt-migrate) |
+| **Grit**                       | GitHub-integrated agent for automating maintenance tasks and other development work. ⚙️ | [Grit](https://docs.grit.io/playground) |
+| **DemoGPT**                   | Auto Gen-AI App Generator with the Power of Llama 2. 🦙 | [DemoGPT](https://github.com/melih-unsal/DemoGPT) |
+| **DevOpsGPT**                 | AI-Driven Software Development Automation Solution. 🚀 | [DevOpsGPT](https://github.com/kuafuai/DevOpsGPT/) |
 | **Second.dev**                | A platform for adding features to full-stack apps. 🔧 | [Second.dev](https://second.dev/) |
-| **Factory**                   | Agents for code generation. Waitlisted. 🏭 | [Factory](https://www.factory.codes/) |
-| **sudocode**                  | A web-based chat assistant for generating projects, similar to Code Interpreter. 💬 | [sudocode](https://sudocode.com/) |
-| **CodeFlash AI**              | A CLI and CI tool for optimizing Python code using AI. 🐍 | [CodeFlash AI](https://github.com/codeflash-ai/codeflash) |
-| **Micro Agent by Builder**    | An AI agent that writes and fixes code for you. 🔧 | [Micro Agent by Builder](https://builder.io/) |
-| **Fine**                      | AI Dev Environment for automating mundane work. Integrates GitHub, Sentry, Linear. Get context-aware answers to questions. Plan, design, and implement changes. Automate self-healing CI/CD. ⚙️ | [Fine](https://www.fine.ai/) |
-| **Potpie**                    | Open Source AI Agents for your codebase in minutes. Use pre-built agents for Q&A, Testing, Debugging, and System Design or create your own purpose-built agents. 🍲 | [Potpie](https://github.com/potpie/potpie) |
-| **Claude Code**               | Anthropic's agentic coding tool. 🧠 | [Claude Code](https://www.anthropic.com/) |
+| **Factory**                   | Agents for code generation. Waitlisted. 🏭 | [Factory](https://www.factory.ai/) |
+| **sudocode**                  | A web-based chat assistant for generating projects, similar to Code Interpreter. 💬 | [sudocode](https://sudocode.ai/) |
+| **CodeFlash AI**              | A CLI and CI tool for optimizing Python code using AI. 🐍 | [CodeFlash AI](https://www.codeflash.ai/) |
+| **Micro Agent by Builder**    | An AI agent that writes and fixes code for you. 🔧 | [Micro Agent by Builder](https://www.builder.io/blog/micro-agent/) |
+| **Fine**                      | AI Dev Environment for automating mundane work. Integrates GitHub, Sentry, Linear. Get context-aware answers to questions. Plan, design, and implement changes. Automate self-healing CI/CD. ⚙️ | [Fine](https://www.fine.dev/?ref=awesome/) |
+| **Potpie**                    | Open Source AI Agents for your codebase in minutes. Use pre-built agents for Q&A, Testing, Debugging, and System Design or create your own purpose-built agents. 🍲 | [Potpie](https://potpie.ai/) |
+| **Claude Code**               | Anthropic's agentic coding tool. 🧠 | [Claude Code](https://docs.anthropic.com/en/docs/agents-and-tools/claude-code/overview/) |
 
 ---
 
