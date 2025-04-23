@@ -65,7 +65,7 @@ This repository contains a curated list of AI tools that can significantly enhan
 
 | Tool | Description | Link |
 |------|-------------|------|
-| **KubeGPT** | Natural language interface for Kubernetes operations | [KubeGPT](https://www.kubegpt.dev/) |
+| **KubeGPT** | Natural language interface for Kubernetes operations | [KubeGPT](https://k8sgpt.ai// |
 | **Ansible Lightspeed** | Red Hat's AI assistant for writing automation playbooks | [Ansible Lightspeed](https://www.redhat.com/en/technologies/management/ansible/ansible-lightspeed) |
 
 ---
@@ -94,11 +94,11 @@ This repository contains a curated list of AI tools that can significantly enhan
 
 | Tool | Description | Link |
 |------|-------------|------|
-| **Cursor** | IDE with chat, edit, generate, and debug features. Forked from VSCodium with a VS Code-like interface. Uses OpenAI. | [Cursor](https://www.cursor.sh/) |
+| **Cursor** | IDE with chat, edit, generate, and debug features. Forked from VSCodium with a VS Code-like interface. Uses OpenAI. | [Cursor](https://www.cursor.com/) |
 | **PearAI** | Open-source fork of VS Code with chat and inline code generation. | [PearAI GitHub](https://trypear.ai/) |
 | **Melty** | Open-source fork of VS Code with chat, previews, and AI-generated commit messages. Source only. | [Melty GitHub](https://github.com/meltylabs/melty) [Melty](https://melty.sh/) |
 | **Replit** | Cloud-based IDE with chat, code completion, AI dev agent, and deployment tools. | [Replit](https://replit.com/) |
-| **Mutable** | Web IDE integrated with chatbot and GitHub workflows. | [Mutable](https://mutable.ai/)  [Mutable Github](https://github.com/mutableai/monitors4codegen) |
+| **Mutable** | Web IDE integrated with chatbot and GitHub workflows. | [Mutable Github](https://github.com/mutableai/monitors4codegen) |
 | **CodeStory** | VSCodium-based IDE with chat, explanations, AI-generated commits and PRs. | [CodeStory](https://codestory.ai/) |
 | **UI Pilot** | Chat-based editor to build Material UI forms using GPT-4. | [UI Pilot](https://uipilot.dev/) [UI Pilot](https://ui-pilot.com/)  |
 | **GitWit** | Web-based IDE for ReactJS with AI-powered editing. | [GitWit](https://gitwit.dev/) |
@@ -235,7 +235,7 @@ This repository contains a curated list of AI tools that can significantly enhan
 | **Marblism**                  | Generate a SaaS boilerplate from a prompt. 🧩 | [Marblism](https://marblism.com/) |
 | **Glowbom**                   | Generate apps with AI and export to multiple platforms. 🌐 | [Glowbom](https://glowbom.com/) |
 | **Mage**                      | Generate full-stack web apps in Wasp, React, Node.js, and Prisma. ⚙️ | [Mage](https://usemage.ai/m/) |
-| **ScrollHub**                 | Generate and publish websites using the Scroll programming language. 📝 | [ScrollHub](https://hub.scroll.pub/) |
+| **ScrollHub**                 | Generate and publish websites using the Scroll programming language. 📝 | [ScrollHub](https://scroll.pub/) |
 
 ---
 
